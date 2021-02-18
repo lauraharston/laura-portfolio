@@ -2,3 +2,12 @@ li {
     display: inline-block !important;
     margin-right: 1rem !important;
 }
+
+ul {
+    list-style: none !important;
+    float: right !important;
+}
+
+a {
+    color: #1ca086 !important;
+}

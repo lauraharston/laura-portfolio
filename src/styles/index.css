@@ -7,16 +7,19 @@ h1 {
 
  h2 {
     font-size: 2.5rem !important;
-    margin-bottom: 3rem !important;;
+    margin-top: 2% !important;
+    margin-bottom: 15%;
 }
 
  .links a{
     color:#1ca086;
     background-image: none;
-    opacity: 0.45;
+    opacity: 0.3;
+    margin-top: 15%;
+   
 }
 
 .button {
-    margin-top: 5%;
+    margin-top: 15%;
 }
 

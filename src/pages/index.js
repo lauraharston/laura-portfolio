@@ -15,7 +15,7 @@ function Home (props) {
     <Layout>
       <div className='test'>
         <h1 style={{marginTop: 100}}>I'm <span style={{color:'#1ca086', opacity:'0.8'}}>Laura Harston.</span></h1>
-        <h2>Design lover <span style={{color:'#1ca086',opacity:'0.6'}}>frontend developer.</span></h2>
+        <h2>Design lover <span style={{color:'#1ca086',opacity:'0.5'}}>frontend developer.</span></h2>
        <div className='links'> 
          <a href='https://github.com/lauraharston' target='blank'> <FaGithub size={50} style={{ marginRight: '1rem' }}/> </a>
          <a href='https://www.linkedin.com/in/laura-harston-9a586a95/' target='blank'><FaLinkedin  size={50} style={{ marginRight: '1rem' }}/> </a>
