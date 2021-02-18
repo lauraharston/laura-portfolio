@@ -15,7 +15,7 @@ function Layout ({children}) {
         <div style={{ margin: `3rem auto`, maxWidth: 1000, padding: `0 1rem` }}>
             <Row>
                 <header>
-                    <img src={logo} width="250" height="100" style={{ display: `inline` }}/>
+                    <img src={logo} width="250" height="100" style={{ display: `inline`, marginTop: -15 }}/>
                     <ul style={{ listStyle: `none`, float: `right` }}>
                         <ListLink to="/">Projects</ListLink>
                         <ListLink to="/">About</ListLink>
