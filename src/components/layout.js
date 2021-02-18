@@ -1,7 +1,8 @@
 import React from 'react'
 import logo from '../images/laura-logo.png'
 import { Container, Row, Col } from 'reactstrap';
-import {Link} from 'gatsby'
+import {Link} from 'gatsby';
+
 
 const ListLink = props => (
     <li style={{ display: `inline-block`, marginRight: `1rem` }}>

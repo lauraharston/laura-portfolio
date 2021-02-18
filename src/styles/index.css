@@ -2,11 +2,21 @@
     height: 100vh;
 }
 h1 {
-    font-size: 3rem;
+    font-size: 3rem !important;
 }
 
  h2 {
-    font-size: 2.5rem;
-    margin-bottom: 3rem;
+    font-size: 2.5rem !important;
+    margin-bottom: 3rem !important;;
+}
+
+ .links a{
+    color:#1ca086;
+    background-image: none;
+    opacity: 0.45;
+}
+
+.button {
+    margin-top: 5%;
 }
 
